@@ -1,0 +1,14 @@
+----------------- Circular Statistics -----------------
+Min: 7631 
+Max: 10481 
+Average: 9207.41 
+Standard deviation 606.1747938565828 
+-------------------------------------------------------
+----------------- Greedy Statistics -----------------
+Min: 7422 
+Max: 9640 
+Average: 8570.31 
+Standard deviation 784.9908214737161 
+-----------------------------------------------------
+Circular turnaround time was 427 
+Greedy turnaround time was 416 
